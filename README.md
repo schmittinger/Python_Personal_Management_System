@@ -1,5 +1,6 @@
 # Python_Personal_Management_System
 
-Python 3.7
-Flask
-Bootstrap 4
+Python 3.7,
+Flask,
+Bootstrap 4,
+Database: MSql
